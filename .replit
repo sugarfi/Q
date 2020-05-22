@@ -1,0 +1,2 @@
+language = "crystal"
+run = "crystal run main.cr -- test.q"
